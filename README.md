@@ -1,2 +1,2 @@
 # LSTM-Tornadoes
-Oklahoma Tornado History from 1950 to present
+Oklahoma tornado prediction using history from 1950 to present
